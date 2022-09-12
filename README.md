@@ -15,24 +15,24 @@
 <div>
     <h4>What are my skill sets?</h4>
     <ul>
-        <li><div>:electric_plug: <strong>Backend:</strong></div>
+        <li><p dir="auto">:electric_plug: <strong>Backend:</strong></p>
             <ul>
                 <li><strong>Framework:</strong> <code>Laravel</code></li>
                 <li><strong>Databases:</strong> <code>MySQL</code></li>
                 <li><strong>Protocol:</strong> <code>REST</code></li>
             </ul>
         </li>
-        <li>:desktop_computer: <strong>Frontend:</strong>
+        <li><p>:desktop_computer: <strong>Frontend:</strong></p>
             <ul>
                 <li><strong>Language:</strong> <code>JavaScript</code></li>
-                <li><strong>Framework/Library:</strong> <code>React.js</code></li>
+                <li><strong>Framework/Library:</strong> <code>React.js, Jquery</code></li>
                 <li><strong>UI Toolkit:</strong> <code>Ant Design</code></li>
                 <li><strong>Utils:</strong> <code>Bootstrap</code> <code>Tailwind</code></li>
             </ul>
         </li>
-        <li>:signal_strength:: <strong>Ecosystem:</strong>
+        <li><p>:signal_strength:: <strong>Ecosystem:</strong></p>
             <ul>
-                <li><strong>Version Contro:</strong> <code>Git</code></li>
+                <li><strong>Version Control:</strong> <code>Git</code></li>
             </ul>
         </li>
     </ul>
