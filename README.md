@@ -1,7 +1,7 @@
 ### <h2> Hi there 👋 I am <span>Sharif Riaz</span> </h2>
 
 <div id="header">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="160"/>
 </div>
 
 
