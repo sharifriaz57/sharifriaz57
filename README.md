@@ -1,7 +1,7 @@
 ### <h2> Hi there 👋 I am <span>Sharif Riaz</span> </h2>
 
 <div id="header">
-  <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="160"/>
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="180"/>
 </div>
 
 
@@ -37,3 +37,19 @@
         </li>
     </ul>
 </div>
+
+<div>
+  
+</div>
+
+<p align="center">
+  <a href="https://github.com/sharifriaz57">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharifriaz57"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sharifriaz57">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharifriaz57"/>
+  </a>
+</p>
